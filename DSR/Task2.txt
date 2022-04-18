@@ -1,0 +1,4 @@
+ html-də button verilib
+ html-ə qoşulmayan dark.css file var( hansı ki burada body color dark verilib)
+  həmin button-a clicklədikdə javascript vastəsilə html-in head hissəsinə css yerləşdirilsin və yaddaşa düşsün 
+  user səhifəni yeniləyəndə və ya sonradan daxil olanda son seçimi (dark css elavə olunub ya olunmayıb) səhifədə qalmış olsun

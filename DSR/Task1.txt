@@ -1,0 +1,4 @@
+Ui verilib 8 checkbox var user seçimlərini edir lakin internet connection itir ve sehifə update olanda seçimlər itir.
+
+sizin edəcəyiniz :
+internet connection qayıdanda user-in etdiyi seçimlər itməsin

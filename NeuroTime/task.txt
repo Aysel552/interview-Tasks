@@ -1,0 +1,9 @@
+Lazım olan datanı burdan götürün (fetch): https://assignment-6fdaf-default-rtdb.firebaseio.com/orders.json
+
+demo images folderinde numune verilib (İstənilən css kitabxanasından istifadə edə bilərsiniz, nümunədə bootstrap css istifadə olunub.)
+
+Göründüyü kimi səhifə 2 componentdən ibarətdir. Sol tərəfdəki komponent cədvəldən və filterdən ibarətdir. 
+Filterdə məhuslun adına görə, sifarişin sayına və tarixinə görə axtarış aparmaq olur.
+Sağdakı komponent isə qrafikdən və əlavə iki statistik məlumatdan ibarətdir. 
+Qeyd edim ki, filter cədvələ aid olsa da, onun nəticəsinin statistika hissəsində də əks olunması arzu olunandır.
+Arzu olunan texnologiyalar, javascript, css, html, hər hansı js framework (vue, react), hər chart kitabxana (chartjs vs).
