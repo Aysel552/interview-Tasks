@@ -1,0 +1,52 @@
+html/css/sass
+1. Inline, Inline block və Block fərqləri
+2. pseudo class nələrdir nə zaman istifadə olunur
+3. after before ilə relative absolute fərqi 
+4. Parent -a və child-a hansi position verilir üst üstə qoymaq üçün və səbəbi
+5. 5 div-imiz var onun ilk son və ortancı elementlərini class id vermədən necə seçmək olar 
+6. Semantic elementlər hansılardır və nə üçün istifadə edilir
+7. telefon və tablet forması necə hansı kodlar ilə hazırlanır və hansı px-lərdən istifə edirsiz nə üçün
+8. js-dən id ilə 1 və class ilə 4 element götürdünüz sizə nə qaytaracaq (type-ları)
+9. Html canvas nə üçün istifadə olunur 
+10. css formatinglərdən hansılardan istifadə olunur (yalnış xatırlamış ola bilərəm özüm də sualı anlamamışdım)
+11. html də div içində p vermişik. css-də p { color: red} və div .p {color:yellow} yazsaq hansını qəbul edəcək və səbəbi
+12. elementi ortalamaq üçün nə istifadə olunur
+13. flexbox-da space between və center fərqi 
+14. width ilə max-width fərqi 
+15. elementi gizlətmək üçün nə istifadə olunur
+16. CSS Combinators nədir
+17. Sass Less necə istifadə etmisiz
+18. Mixin lər necə yığmısız ?
+19. Sass istifadəsinin məqsədi
+20. DOM nədir
+21. reduce methodu barədə
+22. Let const var fərqi (scoplarla izahı)
+23. Housting nədir 
+24. Block scope ilə function fərqi 
+25. Error types 
+26. const obj = { name: "jack", surname:"Smith"} obj.name = "Jhon" və const obj ={ name: "jhon", surname:"Smith"} nə verəcək nə üçün
+27. const name = 'name' sonradan const name= 'myname' yazılsa gələn error tipi nə olacaq 
+28. Block və Global scope anlayışı
+29. Js-də data type -lər 
+30. for (let i=0; i<10; i++){
+    console.log(i)
+}
+console.log(i)
+
+scopun daxilində və xaricində console nə çıxaracaq ?
+31. x= 5 ;
+var x;
+console.log(x) nə cavab qaytaracaq ?
+32. Asynchron javascript nədir(izahı) və nələr istifadə olunur 
+33. Callback function numunəsi yazın və hansı məqamlarda callback nə üçün tərcih edilmir 
+34. Webpack bundle babel barədə
+35. npm yarn fərqi 
+36. cors errors hansılardır
+37. class companent və functional companent fərqləri
+38. Api ilə işləmə zamani promise və async await ilə çağıranda nə kimi nəticələr verirlər 
+39. Get ilə Post fərqi nədir və nə zaman Post istifadə olunur 
+40. Requestin headers-inda nələr gəlir 
+41. Requestin body-sində nələr gəlir 
+42. react-da npm start əvəzinə npm filan işləməsi üçün hardan hansı kodu dəyişməliyik
+43. Closures functions nədir 
+
