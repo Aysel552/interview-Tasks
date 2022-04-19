@@ -49,4 +49,4 @@ console.log(x) nə cavab qaytaracaq ?
 41. Requestin body-sində nələr gəlir 
 42. react-da npm start əvəzinə npm filan işləməsi üçün hardan hansı kodu dəyişməliyik
 43. Closures functions nədir 
-
+44. Http və Https arasındakı fərq nədir 
