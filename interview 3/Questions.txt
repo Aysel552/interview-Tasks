@@ -1,4 +1,4 @@
-html/css/sass
+
 1. Inline, Inline block və Block fərqləri
 2. pseudo class nələrdir nə zaman istifadə olunur
 3. after before ilə relative absolute fərqi 
